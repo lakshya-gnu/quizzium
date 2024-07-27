@@ -1,0 +1,310 @@
+{
+    "i": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ntf1Duh-Q5-KEYbUNHFFXvs-9cM",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-17T11:29:11Z",
+                "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                "title": "JavaScript Tutorials for Beginners",
+                "description": "Go from zero to ninjas in this JavaScript for Beginners complete tutorial playlist. In this playlist we'll start with the basics - what is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qoSksQ4s_hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qoSksQ4s_hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qoSksQ4s_hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Net Ninja",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-07-17T11:29:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yzyOhhNrboBK0ijs6UBlALVOdBQ",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-21T12:58:15Z",
+                "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+                "title": "AWS Tutorial Videos For Beginners | AWS Cloud Computing For Beginners | Simplilearn",
+                "description": "Welcome to the comprehensive AWS tutorial playlist by Simplilearn, your gateway to mastering Amazon Web Services (AWS) and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3XFODda6YXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3XFODda6YXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3XFODda6YXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Simplilearn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-21T12:58:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LzcvjaPKcFbBEa_HD_meQ2mn63g",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLmQKoPepuLJ94zayCli6MF677AXBRw1da"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-29T14:02:13Z",
+                "channelId": "UC-SyaDpTRbDWttA3mxCkFzg",
+                "title": "Myanmar HTML Beginner",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lFjMkUmp_lk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lFjMkUmp_lk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lFjMkUmp_lk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSquare Programming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-29T14:02:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iEUausjG2PPdF7u_PyCG8qTuLgo",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-29T12:01:47Z",
+                "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+                "title": "ReactJS Tutorial for Beginners",
+                "description": "React is an open source javascript library for building user interfaces. React is a project created and maintained by Facebook.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QFaFIcGhPoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QFaFIcGhPoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QFaFIcGhPoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Codevolution",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-29T12:01:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Fk_oKQxpGv3vjwDhn6O9J6k8maY",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-15T07:22:00Z",
+                "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                "title": "Node.js Crash Course Tutorial",
+                "description": "Hey gang, in this Node.js tutorial series you'll learn node from the ground up - what it is, how to use it and how to make dynamic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Net Ninja",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-15T07:22:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CIMJadBf4VnenPm7ZdSXj14NeN4",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-30T13:24:43Z",
+                "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+                "title": "Python for Beginners (Full Course) | Programming Tutorial",
+                "description": "Python Tutorial, Easy Python tutorial for beginner, learn Python Programming, learn python programming with example and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QXeEoD0pB3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QXeEoD0pB3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QXeEoD0pB3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Telusko",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-30T13:24:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aTToPlOAf5hG8B12DH8TfHuyY8s",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-04T20:26:42Z",
+                "channelId": "UCs6nmQViDpUw0nuIx9c_WvA",
+                "title": "Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal",
+                "description": "Learn the Linux command line. Write shell scripts. Are you Curious about Linux, but not sure where to start ? Start here: “Linux ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YHFzr-akOas/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YHFzr-akOas/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YHFzr-akOas/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ProgrammingKnowledge",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-06-04T20:26:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dcgLQGN9aqWf5eRQiuASt7c0su4",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-24T13:48:06Z",
+                "channelId": "UCQYMhOMi_Cdj1CEAU-fv80A",
+                "title": "Database Management Systems",
+                "description": "DBMS is a general-purpose software designed to create and manage the database in an efficient manner. It allows users to define ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Iu45VZGQDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Iu45VZGQDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Iu45VZGQDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Neso Academy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-24T13:48:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UR1ycKKuaY7JojWgOTAAkpVvRFs",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-11T03:36:55Z",
+                "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+                "title": "Cloud Computing Tutorial For Beginners 🔥 | Cloud Computing | Simplilearn",
+                "description": "Embarking on a journey through the vast landscape of cloud computing is a transformative experience, one that promises to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M988_fsOSWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M988_fsOSWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M988_fsOSWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Simplilearn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-11T03:36:55Z"
+            }
+        }
+    ]
+}
